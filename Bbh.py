@@ -52,7 +52,7 @@ def notice():
 	runtxt("\n\033[0;91mYOU ARE NOT PREMIUM USER ")
 	runtxt("\033[0;93m  SENT THIS KEY TO ADMIN >> %s%s"%(G,basesplit))
 	runtxt("\033[0;92m ADMIN MESSENGER🔰BBH")
-	subprocess.check_output(["am", "start", "https://m.me/01314437492"])
+	subprocess.check_output(["am", "start", "https://www.facebook.com/profile.php?id=100003472256152&mibextid=ZbWKwL"])
 
 def irfan():
 	
@@ -94,7 +94,7 @@ class Main:
 		except requests.exceptions.ConnectionError:
 			print("\n%s [!] NO INTERNET CONNECTION..\n"%(G))
 			exit()
-			os.system('xdg-open https://github.com/falto4437 ')
+			os.system('xdg-open https://www.facebook.com/profile.php?id=100003472256152&mibextid=ZbWKwL ')
 		os.system("clear")
 		
 		print ("""\033[1;92m   
